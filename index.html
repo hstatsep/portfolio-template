@@ -11,6 +11,7 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
 </head>
 
 <body>
@@ -25,12 +26,15 @@
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">Home</a>
                 </li>
-                <!--<li class="nav-item">-->
-                <!--    <a class="nav-link" href="#">Example Entry</a>-->
-                <!--</li>-->
+                <li class="nav-item">
+                    <a class="nav-link" href="#" id="github" target="_blank">Github</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#projects">Projects</a>
+                </li>
             </ul>
         </div>
     </nav>
@@ -42,8 +46,8 @@
     </div>
 
     <!-- Second Container -->
-    <div class="container-fluid bg-2 text-center">
-        <h3 class="margin">My Portfolio</h3>
+    <div class="container-fluid bg-2 text-center" id="projects">
+        <h3 class="margin">Projects</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
   </a>
     </div>
@@ -66,9 +70,12 @@
 
     <!-- Footer -->
     <footer class="container-fluid bg-4 text-center">
+        <a href="#" target="_blank" id="fork"><img src="img/fork.png"></a><br>
         <a href="https://hstatsep.github.io" target="_blank"><img src="https://hstatsep.github.io/img/hstatsep-logo-small.png" id="sep"></a>
     </footer>
 
+
+    <script src="script.js"></script>
 </body>
 
 </html>

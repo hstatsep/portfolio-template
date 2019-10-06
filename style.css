@@ -8,6 +8,16 @@ p {
     font-size: 16px;
 }
 
+#logo {
+    max-height: 300px;
+}
+
+#fork img{
+    height: 25px;
+    margin-bottom: 25px;
+    filter: invert(1);
+}
+
 #sep {
     height: 75px;
 }
