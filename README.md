@@ -10,6 +10,7 @@
 
 ##### Updating your username
 
+* It is recommended that you duplicate this tab so that you can _read_ the directions in one tab, and _follow_ the directions in the other tab. If you want, you can even split-screen them and put them side by side.
 * Click the **Settings** tab, then change the **Repository name** to `yourGithubUsername.github.io`. For example, a student with the Github username of _johnd1234_ would change their **Repository name** to `johnd1234.github.io`
 
 In the future, you will be editing these files using an IDE. For now, you will be editing these files directly on github.com
