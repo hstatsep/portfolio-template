@@ -16,7 +16,7 @@ a {
     color: #2e72a1;
 }
 
-#logo {
+#logo, .project-img {
     max-height: 300px;
 }
 

@@ -33,4 +33,13 @@ _NOTE: It is recommended you rename your logo file to_`logo.png`
 ##### Updating your information
 
 * Still on `index.html`, around line 100, you'll see `Lorem ipsum...`. Feel free to change that text to whatever you want!
+* Click the green **commit** button at the bottom.
 
+---
+
+## Adding an entry
+
+* Click on `projects`, then click on `example-project.html`. Click *Raw* then highlight and copy all of the text.
+* Press the *Back* button twice until you are back at the `projects` directory. Then press *Create new file*. Name the file whatever you want, i.e. `cyoa.html`.
+* Paste the code!
+* Customize as needed, using the example starter code and comments to guide you.
