@@ -27,8 +27,8 @@ p {
 }
 
 .bg-1 {
-    background-color: #000000; /* Black */
-    color: #ffffff;
+    background-color: #ffffff; /* White */
+    color: #555555;
 }
 
 .bg-2 {
@@ -36,13 +36,22 @@ p {
     color: #ffffff;
 }
 
+.card {
+    color: black;
+    text-align: left;
+}
+
+.card-title {
+    font-weight: 700;
+}
+
 .bg-3 {
-    background-color: #ffffff; /* White */
-    color: #555555;
+    background-color: #000000; /* Black */
+    color: #ffffff;
 }
 
 .bg-4 {
-    background-color: #2f2f2f; /* Black Gray */
+    background-color: #2f2f2f; /* Dark Gray */
     color: #fff;
 }
 
