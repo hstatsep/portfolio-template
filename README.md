@@ -43,11 +43,19 @@ _NOTE: It may take up to a few minutes in order for your changes to be updated o
 
 ---
 
-## Adding an entry
+## Adding a new project
+
+##### Duplicating the example
 
 * In the `projects` directory, make a copy of `example-project.html`. Name the file whatever you want, i.e. `cyoa.html`.
   * To do this in the command line, simply use `cp example-project.html newFileName.html`
 * Customize as needed, using the example starter code and comments to guide you.
+
+##### Adding a link from the home page
+
+* In `index.html` use the example code around line 50 between `<!--` and `-->`. It is recommended that you copy/paste that code, but without the `<!--` and `-->`.
+* Make sure you update the `<h5>`, `<h6>`, and `<p>` inner text.
+* Update the `<a>` so that `href="projects/yourFileName.html"`
 
 ---
 
