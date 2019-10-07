@@ -46,6 +46,13 @@ _NOTE: It may take up to a few minutes in order for your changes to be updated o
 
 ---
 
+## Customizing
+
+* Feel free to open `style.css` and customize the colors or anything else you want!
+* In the future, you will have enough HTML/CSS skills to completely redo the design of this website!
+
+---
+
 ## Adding a new project
 
 ##### Duplicating the example
@@ -59,13 +66,6 @@ _NOTE: It may take up to a few minutes in order for your changes to be updated o
 * In `index.html` use the example code around line 50 between `<!--` and `-->`. It is recommended that you copy/paste that code, but without the `<!--` and `-->`.
 * Make sure you update the `<h5>`, `<h6>`, and `<p>` inner text.
 * Update the `<a>` so that `href="projects/yourFileName.html"`
-
----
-
-## Customizing
-
-* Feel free to open `style.css` and customize the colors or anything else you want!
-* In the future, you will have enough HTML/CSS skills to completely redo the design of this website!
 
 ---
 
