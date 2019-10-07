@@ -35,6 +35,12 @@ _NOTE: It is recommended you rename your logo file to_`logo.png`
 * Still on `index.html`, around line 100, you'll see `Lorem ipsum...`. Feel free to change that text to whatever you want!
 * Click the green **commit** button at the bottom.
 
+##### Previewing your site
+
+* Go to `yourUserName.github.io` to see the preview of your site!
+
+_NOTE: It may take up to a few minutes in order for your changes to be updated on the preview!_
+
 ---
 
 ## Adding an entry
@@ -43,3 +49,15 @@ _NOTE: It is recommended you rename your logo file to_`logo.png`
 * Press the *Back* button twice until you are back at the `projects` directory. Then press *Create new file*. Name the file whatever you want, i.e. `cyoa.html`.
 * Paste the code!
 * Customize as needed, using the example starter code and comments to guide you.
+* Click the green **commit** button at the bottom.
+
+---
+
+## Customizing
+
+* Feel free to open `style.css` and customize the colors or anything else you want!
+* In the future, you will have enough HTML/CSS skills to completely redo the design of this website!
+
+---
+
+# Have fun!
