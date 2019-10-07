@@ -39,7 +39,7 @@ _NOTE: It is recommended you rename your logo file to_`logo.png`
 
 ##### Previewing your site
 
-* Go to `yourUserName.github.io` to see the preview of your site!
+* In a new tab, go to `yourUserName.github.io` to see the preview of your site!
 
 _NOTE: It may take up to a few minutes in order for your changes to be updated on the preview!_
 
