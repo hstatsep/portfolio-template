@@ -45,11 +45,9 @@ _NOTE: It may take up to a few minutes in order for your changes to be updated o
 
 ## Adding an entry
 
-* Click on `projects`, then click on `example-project.html`. Click *Raw* then highlight and copy all of the text.
-* Press the *Back* button twice until you are back at the `projects` directory. Then press *Create new file*. Name the file whatever you want, i.e. `cyoa.html`.
-* Paste the code!
+* In the `projects` directory, make a copy of `example-project.html`. Name the file whatever you want, i.e. `cyoa.html`.
+  * To do this in the command line, simply use `cp example-project.html newFileName.html`
 * Customize as needed, using the example starter code and comments to guide you.
-* Click the green **commit** button at the bottom.
 
 ---
 
