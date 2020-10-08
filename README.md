@@ -5,7 +5,7 @@
 ##### Getting your own copy of the template
 
 * Click the **Fork** icon in the top-right corner.
-* After you have your own copy, click **Edit** next to the description and update it!
+* After you have your own copy, on the right sidebar, click the gear icon next to **About** and add a description!
   * For example, _This is a collection of all of my work._
 
 ##### Updating your username
