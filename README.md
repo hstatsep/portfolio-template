@@ -53,7 +53,7 @@ _NOTE: It may take up to a few minutes in order for your changes to be updated o
 
 ---
 
-## Adding a new project
+## Adding a new project (in the future)
 
 ##### Duplicating the example
 
