@@ -27,7 +27,7 @@ _NOTE: It is recommended you rename your logo file to_`logo.png`
 
 * Click on `yourUsername.github.io` towards the top to get back to the directory of all of the files.
 * Click on the folder `img`.
-* Click on **Upload files** and upload your logo. Click the green **commit** button at the bottom.
+* Click on **Add file** > **Upload files** and upload your logo. Click the green **commit** button at the bottom.
 * Click on `yourUsername.github.io` towards the top to get back to the directory of all of the files.
 * Click `index.html`, then click the pencil icon to edit the file.
 * Around line 45, you'll see `<img src="img/avatar.png"...`. Change `img/avatar.png` to `img/logo.png` (unless you have a different filename).
