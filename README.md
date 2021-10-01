@@ -17,13 +17,14 @@ In the future, you will be editing these files using an IDE. For now, you will b
 
 
 * Click `script.js`, then click the pencil icon to edit the file.
-* Change `ownerName` to your name: it can be your first name, first and last name, or first name / last initial. For example, _John_ or _John Doe_ or _John D._ This will be what displays in your navigation bar and tab title of the browser.
-* Change `userName` to your Github username. It must match _exactly_. For example, _johnd1234_
+* Change line 1 so that the part between the quotes is your name: it can be your first name, first and last name, or first name / last initial. For example, _John_ or _John Doe_ or _John D._ This will be what displays in your navigation bar and tab title of the browser.
+* Change line 2 so that it matches your Github username. It must match _exactly_. For example, _johnd1234_
 * Click the green **commit** button at the bottom.
 
 ##### Uploading your logo
 
-_NOTE: It is recommended you rename your logo file to_`logo.png`
+_NOTE 1: It is recommended you rename your logo file to_`logo.png`
+_NOTE 2: If your file is on Google Drive, you need to download it to the computer first (right-click or control-click the file, then click Download)._
 
 * Click on `yourUsername.github.io` towards the top to get back to the directory of all of the files.
 * Click on the folder `img`.
