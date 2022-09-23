@@ -23,7 +23,7 @@ In the future, you will be editing these files using an IDE. For now, you will b
 
 ##### Uploading your logo
 
-_NOTE 1: It is recommended you rename your logo file to_`logo.png`
+_NOTE 1: It is recommended you rename your logo file to something like_`logo.png`
 _NOTE 2: If your file is on Google Drive, you need to download it to the computer first (right-click or control-click the file, then click Download)._
 
 * Click on `yourUsername.github.io` towards the top to get back to the directory of all of the files.
@@ -51,6 +51,10 @@ _NOTE: It may take up to a few minutes in order for your changes to be updated o
 
 * Feel free to open `style.css` and customize the colors or anything else you want!
 * In the future, you will have enough HTML/CSS skills to completely redo the design of this website!
+
+---
+
+**You are DONE setting up your portfolio!**
 
 ---
 
