@@ -47,14 +47,14 @@ _NOTE: It may take up to a few minutes in order for your changes to be updated o
 
 ---
 
+**You are DONE setting up your portfolio!**
+
+---
+
 ## Customizing
 
 * Feel free to open `style.css` and customize the colors or anything else you want!
 * In the future, you will have enough HTML/CSS skills to completely redo the design of this website!
-
----
-
-**You are DONE setting up your portfolio!**
 
 ---
 
