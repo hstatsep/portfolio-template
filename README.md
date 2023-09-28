@@ -31,12 +31,12 @@ _NOTE 2: If your file is on Google Drive, you need to download it to the compute
 * Click on **Add file** > **Upload files** and upload your logo. Click the green **commit** button at the bottom.
 * Click on `yourUsername.github.io` towards the top to get back to the directory of all of the files.
 * Click `index.html`, then click the pencil icon to edit the file.
-* Around line 45, you'll see `<img src="img/avatar.png"...`. Change `img/avatar.png` to `img/logo.png` (unless you have a different filename). Make sure you _don't_ delete the part that says `img/`
+* Around line 46, you'll see `<img src="img/avatar.png"...`. Change `img/avatar.png` to `img/logo.png` (unless you have a different filename). Make sure you _don't_ delete the part that says `img/`
 * Stay on `index.html` for now.
 
 ##### Updating your information
 
-* Still on `index.html`, around line 78, you'll see `Lorem ipsum...`. Feel free to change that text to whatever you want!
+* Still on `index.html`, around line 79, you'll see `Lorem ipsum...`. Feel free to change that text to whatever you want!
 * Click the green **commit** button at the bottom.
 
 ##### Previewing your site
