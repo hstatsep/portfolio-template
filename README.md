@@ -72,6 +72,10 @@ _NOTE: It may take up to a few minutes in order for your changes to be updated o
 * Make sure you update the `<h5>`, `<h6>`, and `<p>` inner text.
 * Update the `<a>` so that `href="projects/yourFileName.html"`
 
+##### Using code snippets
+
+You are welcome to use [Prism](https://github.com/hstatsep/other/blob/main/prism/prism.md) to add code snippets to your portfolio. Prism is already imported into your pages.
+
 ---
 
 # Have fun!
