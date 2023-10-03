@@ -19,7 +19,7 @@ In the future, you will be editing these files using an IDE. For now, you will b
 * Click `script.js`, then click the pencil icon to edit the file.
 * Change line 1 so that the part between the quotes is your name: it can be your first name, first and last name, or first name / last initial. For example, _John_ or _John Doe_ or _John D._ This will be what displays in your navigation bar and tab title of the browser.
 * Change line 2 so that it matches your Github username. It must match _exactly_. For example, _johnd1234_
-* Click the green **commit** button at the bottom.
+* Click the green **commit** button (then confirm the commit).
 
 ##### Uploading your logo
 
