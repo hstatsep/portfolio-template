@@ -19,7 +19,7 @@ In the future, you will be editing these files using an IDE. For now, you will b
 * Click `script.js`, then click the pencil icon to edit the file.
 * Change line 1 so that the part between the quotes is your name: it can be your first name, first and last name, or first name / last initial. For example, _John_ or _John Doe_ or _John D._ This will be what displays in your navigation bar and tab title of the browser.
 * Change line 2 so that it matches your Github username. It must match _exactly_. For example, _johnd1234_
-* Click the green **commit** button (then confirm the commit).
+* Click the green **commit** button (then confirm the commit). This will *save* your changes.
 
 ##### Uploading your logo
 
@@ -28,7 +28,7 @@ _NOTE 2: If your file is on Google Drive, you need to download it to the compute
 
 * Click on `yourUsername.github.io` towards the top to get back to the directory of all of the files.
 * Click on the folder `img`.
-* Click on **Add file** > **Upload files** and upload your logo. Click the green **commit** button at the bottom.
+* Click on **Add file** > **Upload files** and upload your logo. Click the green **commit** button.
 * Click on `yourUsername.github.io` towards the top to get back to the directory of all of the files.
 * Click `index.html`, then click the pencil icon to edit the file.
 * Around line 46, you'll see `<img src="img/avatar.png"...`. Change `img/avatar.png` to `img/logo.png` (unless you have a different filename). Make sure you _don't_ delete the part that says `img/`
@@ -37,7 +37,7 @@ _NOTE 2: If your file is on Google Drive, you need to download it to the compute
 ##### Updating your information
 
 * Still on `index.html`, around line 79, you'll see `Lorem ipsum...`. Feel free to change that text to whatever you want!
-* Click the green **commit** button at the bottom.
+* Click the green **commit** button.
 
 ##### Previewing your site
 
