@@ -4,17 +4,19 @@
 
 ##### Getting your own copy of the template
 
-* Click the **Fork** icon in the top-right corner.
+* Click the **Fork** icon in the top-right corner. If you're able to rename it now, rename it to `yourGithubUsername.github.io`. For example, a student with the Github username of _johnd1234_ would change their **Repository name** to `johnd1234.github.io`
 * After you have your own copy, on the right sidebar, click the gear icon next to **About** and add a description!
   * For example, _This is a collection of all of my work._
 
-##### Updating your username
+##### Following these directions
 
 * It is recommended that you duplicate this tab so that you can _read_ the directions in one tab, and _follow_ the directions in the other tab. If you want, you can even split-screen them and put them side by side.
-* Click the **Settings** tab, then change the **Repository name** to `yourGithubUsername.github.io`. For example, a student with the Github username of _johnd1234_ would change their **Repository name** to `johnd1234.github.io`
+
+##### Updating your username
+
+* If your repo is still named `portfolio-template`, click the **Settings** tab, then change the **Repository name** to `yourGithubUsername.github.io`. For example, a student with the Github username of _johnd1234_ would change their **Repository name** to `johnd1234.github.io`
 
 In the future, you will be editing these files using an IDE. For now, you will be editing these files directly on github.com
-
 
 * Click `script.js`, then click the pencil icon to edit the file.
 * Change line 1 so that the part between the quotes is your name: it can be your first name, first and last name, or first name / last initial. For example, _John_ or _John Doe_ or _John D._ This will be what displays in your navigation bar and tab title of the browser.
