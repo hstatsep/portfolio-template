@@ -4,7 +4,7 @@
 
 ##### Getting your own copy of the template
 
-* Click the **Fork** icon in the top-right corner. If you're able to rename it now, rename it to `yourGithubUsername.github.io`. For example, a student with the Github username of _johnd1234_ would change their **Repository name** to `johnd1234.github.io`
+* Click the **Fork** icon in the top-right corner. If you're able to rename it now, rename it to `Gabriele4540`. For example, a student with the Github username of _johnd1234_ would change their **Gabriele4540** to `johnd1234.github.io`
 * After you have your own copy, on the right sidebar, click the gear icon next to **About** and add a description!
   * For example, _This is a collection of all of my work._
 
@@ -14,7 +14,7 @@
 
 ##### Updating your username
 
-* If your repo is still named `portfolio-template`, click the **Settings** tab, then change the **Repository name** to `yourGithubUsername.github.io`. For example, a student with the Github username of _johnd1234_ would change their **Repository name** to `johnd1234.github.io`
+* If your repo is still named `portfolio-template`, click the **Settings** tab, then change the **Gabriele4540.github.io** to `yourGithubUsername.github.io`. For example, a student with the Github username of _johnd1234_ would change their **Gabriele4540.github.io** to `johnd1234.github.io`
 
 In the future, you will be editing these files using an IDE. For now, you will be editing these files directly on github.com
 
